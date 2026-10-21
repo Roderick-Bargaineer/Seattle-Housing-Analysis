@@ -61,7 +61,3 @@
 - `README.md`: this file
 - `/charts`: visualizations (add yours here)
 
-## Next Steps
-
-- Build a dashboard (Tableau Public or Power BI) of price per sqft by city and the Seattle premium
-- Add a regression model to isolate the effect of each feature on price
